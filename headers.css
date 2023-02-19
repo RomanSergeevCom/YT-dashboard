@@ -1,0 +1,40 @@
+.indicator-style {
+    height: 120px;
+    border-radius: 13px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid  #CECECE;
+    box-shadow: 3px 3px 6px #00000029;
+    padding: 6px;
+    textAlign: center;
+    font-size: 1vmin;
+    margin-left: 20px;
+                     }
+
+.card-style {
+    height: 150px;
+    border: 1px solid  #CECECE;
+    box-shadow: 3px 3px 6px #00000029;
+    padding: 6px;
+    textAlign: left;
+    font-size: 1vmin;
+    margin-bottom: 20px;
+    font-family: Optima, sans-serif;
+                     }
+
+.card-div {
+    float: left; /*Задаем обтекание*/
+    line-height: 30px;/*Высота строки + верт. центрирования текста*/
+    font-size: 20px;
+    color: black;
+    margin-top: 5px;
+    width: 350px; /*Фиксируем ширину блока*/
+    margin-right: 5px;
+    text-align: left; /*Центрируем текст по горизонтали*/
+    font-family: Optima, sans-serif;
+}
+
+.component-style {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
